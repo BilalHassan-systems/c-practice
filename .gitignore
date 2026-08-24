@@ -1,0 +1,7 @@
+# C compiled files
+*.exe
+*.out
+*.o
+
+# VS Code folder
+.vscode/
